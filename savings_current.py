@@ -30,7 +30,4 @@ while abs(down_payment - savings(guess)) > 100:
 print("Best savings rate:", guess)
 print("Steps in bisection search:", num_guess)
 
-#interval = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
-#for guess in interval:
-	#if savings(guess) < 250000:
-	#print(savings(guess))
+
